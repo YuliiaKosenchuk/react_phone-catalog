@@ -113,11 +113,13 @@
     "count_other": "{{count}} items",
     "empty": "No favourite items yet"
   },
-  
+
   "cart": {
     "title": "Cart",
     "totalFor_one": "Total for {{count}} item",
     "totalFor_other": "Total for {{count}} items",
+    "totalFor_few": "Total for {{count}} items",
+    "totalFor_many": "Total for {{count}} items",
     "checkout": "Checkout",
     "empty": "Your cart is empty",
     "checkoutAlert": "Thank you for your order!"
