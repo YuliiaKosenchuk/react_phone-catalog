@@ -121,6 +121,7 @@
     "totalFor_one": "Разом за {{count}} товар",
     "totalFor_few": "Разом за {{count}} товари",
     "totalFor_many": "Разом за {{count}} товарів",
+    "totalFor_other": "Разом за {{count}} товарів",
     "checkout": "Оформити замовлення",
     "empty": "Кошик порожній",
     "checkoutAlert": "Дякуємо за замовлення!"

@@ -113,6 +113,7 @@
     "count_other": "{{count}} items",
     "empty": "No favourite items yet"
   },
+  
   "cart": {
     "title": "Cart",
     "totalFor_one": "Total for {{count}} item",
